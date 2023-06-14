@@ -12,6 +12,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <?php
         echo "hasan";
         echo "mahi";
+        echo "mahi";
         ?>
     </body>
 </html>
